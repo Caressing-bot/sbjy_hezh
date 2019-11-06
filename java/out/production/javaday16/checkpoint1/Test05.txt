@@ -1,0 +1,1 @@
+报错，因为Test07是实现端口 Runnable。但是下面的run并没有重写的Runnable中的run方法。

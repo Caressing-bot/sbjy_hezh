@@ -1,0 +1,9 @@
+1.请说出基本数据类型的八个包装类分别是什么？
+byte-Byte		short-Short
+int-Integer	long-Long
+float-Float	double-Double
+char-Character	boolean-Boolean
+2.请说出如何把字符串转换为对应的基本数据类型，有什么注意点？
+除了Characher外，可以用parese数据类型来进行转换。
+如int num=Integer.parseInt("100"); 
+注意点：如果字符串参数的内容无法正确转换为对应的基本类型，则会抛出NumberFormatException异常

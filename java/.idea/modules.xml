@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaDay21/JavaDay21.iml" filepath="$PROJECT_DIR$/JavaDay21/JavaDay21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday02/javaday02.iml" filepath="$PROJECT_DIR$/javaday02/javaday02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday03/javaday03.iml" filepath="$PROJECT_DIR$/javaday03/javaday03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday04/javaday04.iml" filepath="$PROJECT_DIR$/javaday04/javaday04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday04_1/javaday04_1.iml" filepath="$PROJECT_DIR$/javaday04_1/javaday04_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday05/javaday05.iml" filepath="$PROJECT_DIR$/javaday05/javaday05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday06/javaday06.iml" filepath="$PROJECT_DIR$/javaday06/javaday06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday07/javaday07.iml" filepath="$PROJECT_DIR$/javaday07/javaday07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday08/javaday08.iml" filepath="$PROJECT_DIR$/javaday08/javaday08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday09/javaday09.iml" filepath="$PROJECT_DIR$/javaday09/javaday09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday10/javaday10.iml" filepath="$PROJECT_DIR$/javaday10/javaday10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday11/javaday11.iml" filepath="$PROJECT_DIR$/javaday11/javaday11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday12/javaday12.iml" filepath="$PROJECT_DIR$/javaday12/javaday12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday13/javaday13.iml" filepath="$PROJECT_DIR$/javaday13/javaday13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday14/javaday14.iml" filepath="$PROJECT_DIR$/javaday14/javaday14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday15/javaday15.iml" filepath="$PROJECT_DIR$/javaday15/javaday15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday16/javaday16.iml" filepath="$PROJECT_DIR$/javaday16/javaday16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday17/javaday17.iml" filepath="$PROJECT_DIR$/javaday17/javaday17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday18/javaday18.iml" filepath="$PROJECT_DIR$/javaday18/javaday18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday19/javaday19.iml" filepath="$PROJECT_DIR$/javaday19/javaday19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday20/javaday20.iml" filepath="$PROJECT_DIR$/javaday20/javaday20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaday21/javaday21.iml" filepath="$PROJECT_DIR$/javaday21/javaday21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDay21/src/main/main.iml" filepath="$PROJECT_DIR$/JavaDay21/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
